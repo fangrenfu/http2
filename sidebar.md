@@ -1,6 +1,6 @@
 # [http2讲解]()
 
-作者：Calvin Zhang and Simon Xia
+作者：Daniel Stenberg
 
 翻译：Calvin Zhang 与 Simon Xia
 

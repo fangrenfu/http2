@@ -8,7 +8,6 @@
 
 ## 目录
 1. [前言](#README)
-1. [ECMAScript 6简介](#docs/intro)
 1. [背景](#docs/part1.md)
 1. [HTTP的现状](#docs/part2.md)
 1. [那些年，克服延迟之道](#docs/part3.md)

@@ -1,4 +1,4 @@
-前言
+# 前言
 =======
 
 这是一篇详细讲解HTTP/2（[RFC
@@ -9,9 +9,9 @@
 若想获取本书源码，请至https://github.com/bagder/http2-explained
 
 
-贡献
+# 贡献
 =======
 我鼓励大家帮助我们改进文档。我们接受[pull
 requests](https://github.com/bagder/http2-explained/pulls)，但你也可以提[issues](https://github.com/bagder/http2-explained/issues)或者将你的建议直接发送到daniel-http2@haxx.se
 
- / Daniel Stenberg
+  by Daniel Stenberg

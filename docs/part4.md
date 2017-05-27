@@ -3,7 +3,7 @@
 花点功夫去改善HTTP协议显然是极好的事情。我们可以着手于以下几个方面：
 
 1. 降低协议对延迟的敏感
-2. 修复pipelining和head of line blocking的问题
+2. 修复 pipelining 和 head of line blocking 的问题
 3. 防止主机需求更高的连接数量
 4. 保留所有现有的接口，内容，URI格式和结构
 5. 由IETF的HTTPbis工作组来制定  <!-- 这一段有点莫名其妙 -->
